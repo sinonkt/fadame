@@ -1,0 +1,3 @@
+certifi==2018.10.15
+fadame==0.0.2
+fadapa==0.3.1
