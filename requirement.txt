@@ -1,3 +1,13 @@
+atomicwrites==1.2.1
+attrs==18.2.0
 certifi==2018.10.15
-fadame==0.0.2
+fadame==0.0.3
 fadapa==0.3.1
+funcsigs==1.0.2
+more-itertools==4.3.0
+pathlib2==2.3.3
+pluggy==0.8.0
+py==1.7.0
+pytest==4.0.1
+scandir==1.9.0
+six==1.11.0
