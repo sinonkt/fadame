@@ -1,7 +1,7 @@
 atomicwrites==1.2.1
 attrs==18.2.0
 certifi==2018.10.15
-fadame==0.0.3
+fadame==0.0.4
 fadapa==0.3.1
 funcsigs==1.0.2
 more-itertools==4.3.0
